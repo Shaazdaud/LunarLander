@@ -12,3 +12,5 @@ By following this structured approach, the research will comprehensively analyze
 Developing a robust and efficient RL agent that can learn to control the lunar lander in a challenging environment with limited information and actions available. The agent needs to navigate the lander to minimize fuel consumption while ensuring a safe and soft landing within the designated area.
 The OpenAI Gym's Lunar Lander environment offers a well-defined physics engine, mimicking a real-world scenario where a lunar lander needs a precise touchdown on the moon's surface under low gravity conditions. This setting serves as a valuable platform to explore how reinforcement learning techniques can be applied to solve control problems.
 The primary objective of the game is to manoeuvre the agent as softly and fuel-efficiently as possible towards the landing site. The action space is discrete, while the state space is continuous, much like in real physics.
+
+Author - Shaaz Daud
